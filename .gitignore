@@ -1,0 +1,10 @@
+results/
+demo/
+demo_results/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+tests/data/
+images/*
+!images/README.md
